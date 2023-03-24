@@ -1,1 +1,0 @@
-# Predicitng-Lungs-Disease-
